@@ -1,0 +1,23 @@
+<img src=../img/neurologia.jpg>
+<marquee behavior="slide" scrollamount="100"> L'unita' operativa di Neurologia, inserita in un presidio ospedaliero polispecialistico, e' l'unica Neurologia ospedaliera pubblica della Provincia di Rimini.<br> Sono state valorizzate e sviluppate l'organizzazione assistenziale e le competenze professionali finalizzate al trattamento delle patologie neurologiche acute e croniche che richiedono una risposta assistenziale anche di <br> elevata complessita' ed intensita'. </marquee>
+<marquee behavior="slide" scrollamount="100"> <br></marquee>
+<marquee behavior="slide" scrollamount="100"> Di cosa ci occupiamo?</marquee>
+<marquee behavior="slide" scrollamount="100"> Diagnosi e cura di tutte le malattie neurologiche tra le quali: epilessia, demenze, malattie cerebrovascolari, malattie neurogenetiche, sclerosi multipla, disturbi del sonno, e altre patologie <br> del sistema nervoso centrale e periferico</marquee>
+<marquee behavior="slide" scrollamount="100"> All'interno del reparto e' presente un'area di degenza dedicata ai pazienti affetti da ictus in fase acuta definita "Stroke Unit" in cui vengono effettuati interventi terapeutici di trombolisi. <br> In quest'area il paziente viene avviato a un rapido percorso clinito, diagnostico e assistenziale seguito da un team multidisciplinare.</marquee>
+<marquee behavior="slide" scrollamount="100"> L'attivita' assistenziale viene svolta, a seconda della patalogia interessata, mediante ricovero ordinario, in day hospital e visite ambulatoriali. Vengono effettuati anche esami strumentali come <br> l'elettroencefalogramma, polisonnografia, ecocolordoppler, elettromiografie, e tanti altri al fine di controllare al meglio il problema.</marquee>
+<marquee behavior="slide" scrollamount="100"> La struttura svolge anche attivita' di ricerca in tutti i principali settori della neurologia e di didattica nel corso di laurea in Medicia e chirurgia, nei corsi di laurea <br> delle Professioni sanitarie e in Scienze dell'attivita' motoria. <br></marquee>
+<marquee behavior="slide" scrollamount="100"> <br></marquee>
+<marquee behavior="slide" scrollamount="100"> Qui di seguito sono riportati tutti i nostri servizi: </marquee>
+<marquee behavior="slide" scrollamount="100"><ul> </marquee>
+<marquee behavior="slide" scrollamount="100"><li> degenza ordinaria </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> day hospital/day service </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> attivita' di consulenza interna ed urgenze esterne </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> ambulatoria generale di neurologia </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> ambulatori finalizzati </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> sclerosi multipla e malattie rare </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> disturbi del movimento e malattia di parkinson </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> epilessie </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> disturbi cognitivi e comportamentali </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> servizio di neurofisiologia </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> servizio di neuropsicologia </li></marquee>
+<marquee behavior="slide" scrollamount="100"></ul> </marquee>

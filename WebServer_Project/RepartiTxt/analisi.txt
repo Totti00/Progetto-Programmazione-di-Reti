@@ -1,0 +1,13 @@
+<img src=../img/analisi.jpg>
+<marquee behavior="slide" scrollamount="100"> Il laboratorio Analisi di Rimini e' certificato ed accreditato al Servizio Sanitario Nazionale. </marquee>
+<marquee behavior="slide" scrollamount="100"> E' possibile eseguire le indagini piu' comuni tramite prelievo di sangue, prelievi microbiologi, analisi delle urine, analisi delle feci, ma anche esami specialistici come analisi specifiche su marker<br></marquee>
+<marquee behavior="slide" scrollamount="100"> tuorali o malattie infettive, test allergologici e di intolleranze alimentari.</marquee>
+<marquee behavior="slide" scrollamount="100"> <br></marquee>
+<marquee behavior="slide" scrollamount="100"> Gli esami possono essere esguiti a richiesta del paziente stesso oppure dal medico curante. Non e' necessario la prenotazione o l'impegnativa del medico per prelievi venosi e per la maggior parte</marquee>
+<marquee behavior="slide" scrollamount="100"> dei prelievi microbiologici. </marquee>
+<marquee behavior="slide" scrollamount="100"> Viene richiesta la prenotazione solo per tamponi vaginali, uretrali, per garantire la presenza del personale medico competente.</marquee>
+<marquee behavior="slide" scrollamount="100"> <br></marquee>
+<marquee behavior="slide" scrollamount="100"> Il laboratorio garantisce tempi rapidi per la consegna dei referti. Mette inoltre a disposizione modalita' multiple di ritiro quali stampa del referto cartaceo, fax ed e-mail in posta certificata, </marquee>
+<marquee behavior="slide" scrollamount="100"> nonche' un sistema gratuito di refertazione online disponibile per i propri pazienti, per i medici e per le strutture convenzionate.</marquee>
+<marquee behavior="slide" scrollamount="100"> Offre anche un servizio di prelievo a domicilio, Per tale servizio e' richiesta la prenotazione.</marquee>
+<marquee behavior="slide" scrollamount="100"> <br></marquee>

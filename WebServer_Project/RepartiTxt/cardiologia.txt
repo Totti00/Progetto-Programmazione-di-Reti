@@ -1,0 +1,21 @@
+<img src=../img/cardiologia.jpg>
+<marquee behavior="slide" scrollamount="100"> L'unita' operativa di Cardiologia fa parte del Dipartimento Cardiovascolare ed e' ubicata all'interno della sede della struttura ospedaliera. Il reparto svolge attivita' in regime di degenza ed attivita' ambulatoriale. </marquee>
+<marquee behavior="slide" scrollamount="100"> Presso l'unita' di terapia intensiva coronarica si ricoverano pazienti con patologia cardiaca acuta che richiede un costante monitoraggio. <br></marquee>
+<marquee behavior="slide" scrollamount="100"> Di cosa ci occupiamo?</marquee>
+<marquee behavior="slide" scrollamount="100"> <br></marquee>
+<marquee behavior="slide" scrollamount="100"> Il servizio di Cardiologia dell'Ospedale degli Infermi di Rimini si occupa della diagnosi, del trattamento e della cura delle malattie che colpiscono cuore e arterie, </marquee>
+<marquee behavior="slide" scrollamount="100"> quali: lo scompenso cardiaco, la cardiomiopatia ischemia, l'ipertensione, le aritmie, ecc. </marquee>
+<marquee behavior="slide" scrollamount="100"> E' possibile effetuare la visita cardiologica che permette di individuare e trattare le diverse patologie.</marquee>
+<marquee behavior="slide" scrollamount="100"> Inoltre lo specialista ha a disposizione diversi esami a supporto della diagnosi come: ecocolordoppler cardiaco, test cardiovascolare da sforzo, elettrocardiogramma dinamio o normale.<br></marquee>
+<marquee behavior="slide" scrollamount="100"> Sono presenti presso la struttura le funzioni di Unita' terapia intensiva coronarica, di Emodinamica e Elettrofisiologia. Il centro e' dotato di tutte le attrezzature necessarie per gli interventi di cardiologia interventistica.<br></marquee>
+<marquee behavior="slide" scrollamount="100">  <br></marquee>
+<marquee behavior="slide" scrollamount="100"> Le principale malattie trattate sono:</marquee>
+<marquee behavior="slide" scrollamount="100"><ul> </marquee>
+<marquee behavior="slide" scrollamount="100"><li> sindrome coronarica cronica </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> scompenso cardiaco </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> stenosi aortica </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> cardiomiopatie </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> stenosi carotidea </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> visita cardiologica + Elettrocardiogramma </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> controllo Pacemaker </li></marquee>
+<marquee behavior="slide" scrollamount="100"></ul> </marquee>

@@ -1,0 +1,20 @@
+<img src=../img/urologia.jpg>
+<marquee behavior="slide" scrollamount="100"> Il reparto di Urologia dell'Ospedale Infermi di Rimini fa parte del dipartimento chirurgico ed eroga le proprie prestazioni in regime di ricovero, prericovero Day Hospital ed ambulatoriale </marquee>
+<marquee behavior="slide" scrollamount="100"> presso i seguenti ambulatori: ambulatorio divisione urologia, ambulatori di andrologia, ambulatorio di cistoscopia, ambulatorio ecografia prostatica e trans-rettale, ambulatorio flussimetria, </marquee>
+<marquee behavior="slide" scrollamount="100"> ambulatorio urodinamica, ambulatorio utologia per medicazioni, cambio cateteri e istillazioni endovescicali.</marquee>
+<marquee behavior="slide" scrollamount="100"> La patologia andrologica inerente i genitali maschili viene trattata chirurgicamente in regime di Day-Surgery, nell'80-90% dei casi in anestesia locale, mentre l'urologia Ginecologica </marquee>
+<marquee behavior="slide" scrollamount="100"> vede impegnato il reparto anche nella diagnosi e trattamento dell'incontinenza urinaria femminile, sia tramite l'impegno di protesi che con interventi per via  </marquee>
+<marquee behavior="slide" scrollamount="100"> transvaginale o retropubica.</marquee>
+<marquee behavior="slide" scrollamount="100"> Altro aspetto qualificante dell'unita' e' il trattamento delle stenosi uretrali complesse, che prevede una collaborazione con i colleghi ORL per l'utilizzo di lembi liberi di mucosa buccale</marquee>
+<marquee behavior="slide" scrollamount="100"> nell'intervento di uretroplastica. </marquee>
+<marquee behavior="slide" scrollamount="100"> <br></marquee>
+<marquee behavior="slide" scrollamount="100"> Le principali malatttie trattate sono:</marquee>
+<marquee behavior="slide" scrollamount="100"><ul> </marquee>
+<marquee behavior="slide" scrollamount="100"><li> idronefrosi</li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> leiomioma </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> colica renale </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> calcolosi renale </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> tumore della pelvi renale </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> stenosi congenita </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> tumore della vescica </li></marquee>
+<marquee behavior="slide" scrollamount="100"></ul> </marquee>

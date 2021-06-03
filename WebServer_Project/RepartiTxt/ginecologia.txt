@@ -1,0 +1,19 @@
+<img src=../img/ginecologia.jpg>
+<marquee behavior="slide" scrollamount="100"> Il reparto di Ginecologia, e' una sezione molto importante nell'ospedale. Questo e' composto da: sala parto, reparto maternita' e sala delle incubatrici. <br>Questo reparto si divide in due 'sotto-reparti': Ginecologia e Ostetricia.</marquee>
+<marquee behavior="slide" scrollamount="100"> <br></marquee>
+<marquee behavior="slide" scrollamount="100"> Ostetricia</marquee>
+<marquee behavior="slide" scrollamount="100"> Assiste le donne con gravidanza a basso rischio e ad alto rischio, monitorizza il travaglio e il parto spontaneo, indotto o operativo attraverso percorsi di continuita' assistenziale. <br>Organizza anche corsi di preparazione alla gravidanza e al parto.</marquee>
+<marquee behavior="slide" scrollamount="100"> Dopo la gravidanza, viene garantita assistenza al puerperio e all'allattamento. Per esempio esiste il team della Nursery ( che afferisce alla Neanatologia) che assiste i neonati e la madre <br>nei primi momenti della loro relazione, durante l'allattamento e le pratiche di igiene e cura del neonato.</marquee>
+<marquee behavior="slide" scrollamount="100"> Il monitoraggio pre e post-natale consente di sviluppare attivita' di ricerca sull'ipertensione in gravidanza, il diabete gestazionale, le patologie dell'accrescimento fetale, e tanto altro. <br></marquee>
+<marquee behavior="slide" scrollamount="100"> <br></marquee>
+<marquee behavior="slide" scrollamount="100"> Ginecologia <br></marquee>
+<marquee behavior="slide" scrollamount="100"> Qui viene svolta l'attivita' di diagnosi precoce e terapia delle patologie benigne e maligne dell'apparato genitale. <br>Questa attivita' e' supportata da ambulatori dedicati alle patologie vulvo-vagino-cervicali che necessitano di indagini specifiche. <br>Gli specialisti, poi, si avvalgono di apparecchiature ecografiche per la valutazione dell'utero e delle ovaie.</marquee>
+<marquee behavior="slide" scrollamount="100"> <br></marquee>
+<marquee behavior="slide" scrollamount="100"> Qui di seguito sono riportati tutti i nostri servizi:</marquee>
+<marquee behavior="slide" scrollamount="100"><ul> </marquee>
+<marquee behavior="slide" scrollamount="100"><li> assistenza alla gravidanza fisiologia e/o patologica </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> taglio cesario </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> travaglio e parto, anche in acqua, e in posizioni libere </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> trattamento chirurgico del pavimento pelvico </li></marquee>
+<marquee behavior="slide" scrollamount="100"><li> cisti ovariche </li></marquee>
+<marquee behavior="slide" scrollamount="100"></ul> </marquee>

@@ -1,0 +1,10 @@
+<table border="2" bordercolor="#FF0000" align="center">
+<tr><td></td><td><p> Mattina </p></td><td><p> Pomeriggio </p></td></tr>
+<tr><td><p> Lunedi </p></td><td><p> 10 - 13:00 </p></td><td><p> 19:00 - 22:00 </p></td></tr>
+<tr><td><p> Martedi </p></td><td><p> 9 - 13:00 </p></td><td><p> - </p></td></tr>
+<tr><td><p> Mercoledi </p></td><td><p> 10 - 13:00 </p></td><td><p> 19:00 - 22:00 </p></td></tr>
+<tr><td><p> Giovedi </p></td><td><p> 10 - 13:00 </p></td><td><p> - </p></td></tr>
+<tr><td><p> Venerdi </p></td><td><p> 11:30 - 13:00 </p></td><td><p> 19:00 - 22:00 </p></td></tr>
+<tr><td><p> Sabato </p></td><td><p> - </p></td><td><p> 20:00 - 22:00 </p></td></tr>
+<tr><td><p> Domenica </p></td><td><p> - </p></td><td><p> 16:00 - 22:00 </p></td></tr>
+</table>
